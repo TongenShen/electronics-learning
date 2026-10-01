@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: 01-resistor-divider\divider_dc.net
+Start Time: Thu Oct  1 21:42:09 2026
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+.step 
+Total elapsed time: 0.041 seconds.
+
+Files loaded:
+01-resistor-divider\divider_dc.net
+

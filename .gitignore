@@ -1,0 +1,18 @@
+# LTspice 仿真产物（可重新生成，不入库）
+*.raw
+*.op.raw
+*.fft
+*.db
+*.plt
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统与编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

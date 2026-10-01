@@ -1,0 +1,14 @@
+LTspice 24.1.9 for Windows
+Circuit: 01-resistor-divider\divider_load_step.net
+Start Time: Thu Oct  1 21:37:35 2026
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.018 seconds.
+
+Files loaded:
+01-resistor-divider\divider_load_step.net
+
